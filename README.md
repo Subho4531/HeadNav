@@ -45,7 +45,7 @@
 4. **Run the Program**
    Execute the program with:
    ```bash
-   python headnav.py
+   python Controller.py
    ```
 
 5. **Using the Application**
